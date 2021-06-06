@@ -1,0 +1,33 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.formulario {
+    align-items: center;
+    justify-content: center;
+    background-color: #f7f7f7;
+    border: 1px solid #f5f5;
+    border-radius: 5px;
+    box-shadow: 8px 8px gray;
+}
+
+.formulario li {
+    padding: 3px;
+    list-style-type: none;
+}
+
+.formulario input {
+    width: 150px;
+    height: 20px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: rgb(71, 129, 255);
+    border-radius: 5px;
+    border: 1px solid #f7f7f7;
+    height: 25px;
+    width: 70px;
+    color: white;
+    box-shadow: 1px 1px gray;
+}
