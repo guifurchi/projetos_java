@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: rgb(76, 226, 76);
+    background-color: rgb(65, 61, 61);
+}
+
+body canvas {
+    border-radius: 30px;
+}
