@@ -1,0 +1,78 @@
+body{
+    background-color: black;
+    font-size: 26px;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+input {
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    margin: 2px;
+}
+
+h3,h2{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.corpo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid white;
+    border-radius: 25px;
+    width: 310px;
+}
+
+.contorno {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tela{
+    text-align: right;
+    margin-top: 80px;
+    margin-bottom: 10px;
+    border: 1px;
+    width: 100%;
+    background-color:black;
+    color: white;
+    font-size: 50px;
+}
+
+.num{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+    border-radius: 50%;
+    color: white;
+    width: 60px;
+    height: 60px;
+    border: none;
+    margin: 5px;
+}
+
+.num:hover{
+    background-color: rgb(172, 169, 169);
+}
+
+.oper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: orange;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    border: none;
+    color: white;
+}
+
+.oper:hover{
+    background-color: rgb(255, 200, 98);
+}
