@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>Experimente pressionar qualquer tecla e uma 
+        mensagem mostrará o código da tecla pressionada.</p>
+        <p id="tecla"></p>
+        
+        <script language="JavaScript">
+          function tecla(){
+            document.getElementById("tecla").innerHTML = "O código da tecla pressionada foi: " + event.keyCode;
+          }
+          
+          document.body.onkeypress = tecla;
+        </script>
+    
+</html>

@@ -1,0 +1,16 @@
+Projetos Java para iniciantes
+
+2:46 - Cronômetro:
+https://codepen.io/cathydutton/pen/GBcvo
+3:18 - Calculadora:
+https://codepen.io/lalwanivikas/details/eZxjqo
+3:52 - Bateria Virtual:
+https://codepen.io/amdsouza92/pen/xdooWa 
+4:38 - Jogo das Cores:
+https://codepen.io/itsmhuang/pen/oxaReK
+5:12 - Jogo da Velha:
+https://codepen.io/daajust/pen/obVROB
+5:31 - Calculadora de Gorjeta:
+https://codepen.io/voula12/pen/djrZGw
+5:57 - Lista de tarefas:
+https://codepen.io/sagar27/pen/MoBoKP
